@@ -6,3 +6,4 @@
   - Email: njh040502@gmail.com
 - ⚡ Fun fact: I have worked in Fairbanks in Alaska at the Boys and Girls Club of Fairbanks! It was an eye-opening experience, as I learned a lot of about being an adult - budgeting,
   rent, and juggling my social and work skills!
+- This Github Profile contains documents/code/files submitted from previous classes; everything is open to view!
